@@ -1,4 +1,5 @@
 # UAL-CCI-ML-1
+# All markdown documentation and code are written and executed using Jupyter Notebook (.ipynb), which allows explanations, outputs, and visualisations to be shown together in one place.
 
 ## Environment / libraries
 
